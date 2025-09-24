@@ -1,6 +1,6 @@
 # 
 
-name: Run tests
+name: Run Maven build
 
 on:
   push:
